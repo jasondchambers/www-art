@@ -1,34 +1,34 @@
 ---
 title: "Shelby"
-date: 2024-04-20T17:08:44-04:00
+date: 2024-04-21T11:13:09-04:00
 weight: 0
-albumthumb: "Shelby/S1.JPG"
+albumthumb: "shelby/s1.jpg"
 draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
 #  phototitle: A title for the photo
 #  description: A sub-title or description for the photo
 resources:
-- src: "Shelby/S1.JPG"
+- src: "shelby/s1.jpg"
   weight: 10
-- src: "Shelby/S2.JPG"
+- src: "shelby/s2.jpg"
   weight: 20
-- src: "Shelby/S3.JPG"
+- src: "shelby/s3.jpg"
   weight: 30
-- src: "Shelby/S4.JPG"
+- src: "shelby/s4.jpg"
   weight: 40
-- src: "Shelby/S5.JPG"
+- src: "shelby/s5.jpg"
   weight: 50
-- src: "Shelby/S6.JPG"
+- src: "shelby/s6.jpg"
   weight: 60
-- src: "Shelby/S7.JPG"
+- src: "shelby/s7.jpg"
   weight: 70
-- src: "Shelby/S8.JPG"
+- src: "shelby/s8.jpg"
   weight: 80
-- src: "Shelby/S9.JPG"
+- src: "shelby/s9.jpg"
   weight: 90
-- src: "Shelby/Shelby final.JPG"
+- src: "shelby/shelby.jpg"
   weight: 100
-- src: "Shelby/Shelby.JPG"
+- src: "shelby/shelby_final.jpg"
   weight: 110
 ---

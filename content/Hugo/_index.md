@@ -1,22 +1,22 @@
 ---
 title: "Hugo"
-date: 2024-04-20T16:53:12-04:00
+date: 2024-04-21T11:13:08-04:00
 weight: 0
-albumthumb: "Hugo/Hugo photo.png"
+albumthumb: "hugo/hugo1.jpg"
 draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
 #  phototitle: A title for the photo
 #  description: A sub-title or description for the photo
 resources:
-- src: "Hugo/Hugo photo.png"
+- src: "hugo/hugo1.jpg"
   weight: 10
-- src: "Hugo/Hugo1.jpg"
+- src: "hugo/hugo2.jpg"
   weight: 20
-- src: "Hugo/Hugo2.jpg"
+- src: "hugo/hugo3.jpg"
   weight: 30
-- src: "Hugo/Hugo3.jpg"
+- src: "hugo/hugo4.jpg"
   weight: 40
-- src: "Hugo/Hugo4.jpg"
+- src: "hugo/hugo_photo.png"
   weight: 50
 ---

@@ -1,32 +1,32 @@
 ---
 title: "Kate"
-date: 2024-04-20T16:55:17-04:00
+date: 2024-04-21T11:13:08-04:00
 weight: 0
-albumthumb: "Kate/KateCabin.jpg"
+albumthumb: "kate/kate.png"
 draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
 #  phototitle: A title for the photo
 #  description: A sub-title or description for the photo
 resources:
-- src: "Kate/KateCabin.jpg"
+- src: "kate/kate.png"
   weight: 10
-- src: "Kate/kate 2.JPG"
+- src: "kate/kate_2.jpg"
   weight: 20
-- src: "Kate/kate 3.JPG"
+- src: "kate/kate_3.jpg"
   weight: 30
-- src: "Kate/kate 4.JPG"
+- src: "kate/kate_4.jpg"
   weight: 40
-- src: "Kate/kate 5.JPG"
+- src: "kate/kate_5.jpg"
   weight: 50
-- src: "Kate/kate 6.JPG"
+- src: "kate/kate_6.jpg"
   weight: 60
-- src: "Kate/kate 7.JPG"
+- src: "kate/kate_7.jpg"
   weight: 70
-- src: "Kate/kate 8.JPG"
+- src: "kate/kate_8.jpg"
   weight: 80
-- src: "Kate/kate 9.JPG"
+- src: "kate/kate_9.jpg"
   weight: 90
-- src: "Kate/kate.png"
+- src: "kate/katecabin.jpg"
   weight: 100
 ---
