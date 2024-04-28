@@ -20,7 +20,7 @@ The pipeline also publishes to DockerHub, as this is supported by GCP (Google Cl
 
 Replace tag with the desired number. You can find these on [Docker Hub](https://hub.docker.com/repository/docker/yzxbmlf/www-art/general).
 
-The container is deployed using Google Cloud Run and can be managed in [Google Cloud](https://console.cloud.google.com/home/dashboard?hl=en&project=micro-spanner-416713).
+The container is deployed using Google Cloud Run and can be managed in [Google Cloud](https://console.cloud.google.com/home/dashboard?hl=en&project=www-art).
 
 The domain sketchyjason.com is managed using [SquareSpace](https://account.squarespace.com/domains).
 
