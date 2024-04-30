@@ -1,6 +1,6 @@
 # www-art
 Website for my art. 
-
+ 
 The website is called [sketchyjason.com](https://sketchyjason.com).
 
 During development, simply run the following:
